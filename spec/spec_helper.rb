@@ -1,4 +1,4 @@
-require 'yaml'
+3require 'yaml'
 
 RSpec.configure do |config|
 
